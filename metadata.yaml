@@ -1,4 +1,8 @@
 _repo: New-Englands-Prospect-A-true-lively-and-experimentall-description-of-that-part-of-America-com__47082
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47082-h/images/cover.jpg
 creator:
   author:
     agent_name: Wood, William
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '44136'
     url: http://www.gutenberg.org/2009/agents/44136
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47082#New-Englands-Prospect-A-true-lively-and-experimentall-description-of-that-part-of-America-com_
 gutenberg_issued: '2014-10-09'
 gutenberg_type: Text
 identifiers:
